@@ -1,0 +1,47 @@
+[
+  {
+    "name": "摄像机",
+    "dataUrl": "./static/features/camera.json",
+    "imageUrl": "./static/images/camera.png"
+  },
+  {
+    "name": "卡口机",
+    "dataUrl": "./static/features/monitoring.json",
+    "imageUrl": "./static/images/monitoring.png"
+  },
+  {
+    "name": "诱导机",
+    "dataUrl": "./static/features/guidance.json",
+    "imageUrl": "./static/images/guidance.png"
+  },
+  {
+    "name": "信号机",
+    "dataUrl": "./static/features/signal.json",
+    "imageUrl": "./static/images/signal.png"
+  },
+  {
+    "name": "信号灯",
+    "dataUrl": "./static/features/signalLight.json",
+    "imageUrl": "./static/images/signalLight.png"
+  },
+  {
+    "name": "信号灯",
+    "dataUrl": "./static/features/signalLight.json",
+    "imageUrl": "./static/images/signalLight.png"
+  },
+  {
+    "name": "信号灯",
+    "dataUrl": "./static/features/signalLight.json",
+    "imageUrl": "./static/images/signalLight.png"
+  },
+  {
+    "name": "信号灯",
+    "dataUrl": "./static/features/signalLight.json",
+    "imageUrl": "./static/images/signalLight.png"
+  },
+  {
+    "name": "信号灯",
+    "dataUrl": "./static/features/signalLight.json",
+    "imageUrl": "./static/images/signalLight.png"
+  }
+]
